@@ -1,0 +1,1 @@
+function upperWord(e){var a=document.getElementById(e);a.value=a.value.toUpperCase()}

@@ -1,0 +1,1 @@
+﻿function deleteItem(e){if(confirm("\xcates-vous s\xfbr de vouloir supprimer ce film ?")){var t=new XMLHttpRequest;t.open("GET","model.php?model=movie&action=delete&id="+e,!0),t.onreadystatechange=function(){if(4==t.readyState&&200==t.status){var i=document.getElementById("movie-"+e);i&&i.remove(),alert("Le film a \xe9t\xe9 supprim\xe9 avec succ\xe8s !")}},t.send()}}

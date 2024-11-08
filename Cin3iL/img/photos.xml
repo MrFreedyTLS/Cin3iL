@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <photo>
+        <src>img/cinema1.jpg</src>
+        <title>Nos salles</title>
+        <description>Nos salles de projections possèdent les dernières technologies audio et visuel</description>
+    </photo>
+    <photo>
+        <src>img/cinema2.jpg</src>
+        <title>Notre accueil</title>
+        <description>Notre personnel est prêt à vous accueilir! Alors détendes-vous! </description>
+    </photo>
+    <photo>
+        <src>img/cinema3.jpg</src>
+        <title>Nos snacks</title>
+        <description>Notre services snacking prépare les meilleurs snacks de Rodez!</description>
+    </photo>
+</gallery>
